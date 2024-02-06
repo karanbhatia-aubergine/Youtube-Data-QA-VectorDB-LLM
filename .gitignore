@@ -1,0 +1,8 @@
+venv
+.ENV
+.env
+word2vec_model
+embeddings.tsv
+image_embeddings.tsv
+metadata.tsv
+paragraphs.txt
